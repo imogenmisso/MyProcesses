@@ -19,7 +19,7 @@
   * 99.999% of the time, someone else has had this problem! StackOverflow can be hugely valuable
 5. Take a break and go back to it
   * A fresh pair of eyes and clean head can often be the best debugging tool
-5. Pair program on the bug
+6. Pair program on the bug
   * If you have exhausted all your ideas/options and find yourself spiralling, ask someone to pair with you on it!
     - Show them the bug in the code
     - Explain everything you've tried to do to solve it
